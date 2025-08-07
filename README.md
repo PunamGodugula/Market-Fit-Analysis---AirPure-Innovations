@@ -38,9 +38,28 @@ These examples reflect rising **consumer awareness** and **market readiness** fo
 
 - **Power BI** for visualization dashboards
 - **PowerPoint** for detailed analysis
-
+---
 ## Market Growth of Air Purifiers in India
- <<img width="1208" height="686" alt="image" src="https://github.com/user-attachments/assets/7593668b-215d-4f7a-b98f-449479f07130" />
+ <img width="1208" height="686" alt="image" src="https://github.com/user-attachments/assets/7593668b-215d-4f7a-b98f-449479f07130" />
+ 
+ ## AQI Dashboard 
+ <img width="1006" height="706" alt="3  AQI in India" src="https://github.com/user-attachments/assets/13ff4968-e78b-4edf-9f1d-436c2c1e7937" />
+
+ ## Respiratory Diseases and AQI Dashboard
+ <img width="1005" height="707" alt="4  Respiratory Health x AQI" src="https://github.com/user-attachments/assets/71d9f974-05b2-4ae2-9e25-7fd96f0717da" />
+
+ ## EV adoption VS AQI Dashboard 
+ <img width="1006" height="705" alt="5  EV Penetration x AQI" src="https://github.com/user-attachments/assets/49493a97-35d1-41bc-9e79-6248b970a5ea" />
+
+ ## Market Priority Dashboard 
+ <img width="1008" height="710" alt="6  Market Piority" src="https://github.com/user-attachments/assets/be844464-bd05-44e9-98de-393254229964" />
+
+ ---
+ 
+
+
+
+
 
 
 
