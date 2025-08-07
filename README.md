@@ -55,7 +55,10 @@ These examples reflect rising **consumer awareness** and **market readiness** fo
  <img width="1008" height="710" alt="6  Market Piority" src="https://github.com/user-attachments/assets/be844464-bd05-44e9-98de-393254229964" />
 
  ---
- 
+ ## Observations : 
+  1. In 2024, India’s average AQI was around 138, about 10 times the WHO guideline for PM2.5 exposure.
+  2. The most polluted cities—such as Delhi, Ghaziabad, and others—are located in the northern belt, where air quality frequently deteriorates into the ‘poor to severe’ or ‘hazardous’ levels.
+
 
 
 
