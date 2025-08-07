@@ -39,6 +39,8 @@ These examples reflect rising **consumer awareness** and **market readiness** fo
 - **Power BI** for visualization dashboards
 - **PowerPoint** for detailed analysis
 
----
+--- <<img width="1208" height="686" alt="image" src="https://github.com/user-attachments/assets/7593668b-215d-4f7a-b98f-449479f07130" />
+
+
 
 
