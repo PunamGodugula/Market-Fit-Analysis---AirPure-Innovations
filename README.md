@@ -56,20 +56,20 @@ These examples reflect rising **consumer awareness** and **market readiness** fo
 
  ---
  ## Observations : 
- 1. India’s Alarming AQI Levels
+ 1. **India’s Alarming AQI Levels**
 - In 2024, India’s average AQI was ~110, nearly 50x higher than WHO's safe limit for PM2.5.
-- Cities like Delhi (AQI: 300+), Ghaziabad, Kanpur, and Lucknow frequently experience ‘severe’ air quality, highlighting an urgent need for indoor air solutions.
-2. Dominant Pollutants & Product-Market Fit
-- PM2.5 and PM10, from vehicles, construction, and industries, are the top air pollutants.
-- HEPA-based air purifiers (plus activated carbon filters) align perfectly to combat these pollutants indoors.
-3. Health Crisis Misalignment
+- Cities like Delhi (AQI: ~200), Byirnhat (Assam), Sri Ganganagar (Rajastan)experience ‘severe’ air quality, highlighting an urgent need for indoor air solutions.
+2. **Dominant Pollutants & Product-Market Fit**
+- **PM2.5 and PM10**, from vehicles, construction, and industries, are the top air pollutants.
+- **HEPA-based air purifiers (plus activated carbon filters)** align perfectly to combat these pollutants indoors.
+3. **Health Crisis Misalignment**
 - IDSP data reveals respiratory outbreaks (e.g., in Chhattisgarh, Odisha) don’t always align with AQI hotspots.
-- This calls for preventive indoor purification—beyond AQI—especially in hospitals, offices, and schools.
-4. EV Adoption as a Proxy for Awareness
+- This calls for preventive **indoor purification—beyond** AQI—especially in hospitals, offices, and schools.
+4. **EV Adoption as a Proxy for Awareness**
 - High EV adoption in Delhi NCR, Mumbai, Pune, Bengaluru, Hyderabad reflects growing environmental and health awareness.
 - These regions are primed for early adoption of air purification technologies.
-5. Target Market Segmentation
-- Tier-1 and Tier-2 cities (Delhi, Mumbai, Bengaluru, Lucknow, Pune, Ahmedabad) offer strong potential due to: High AQI, Higher per capita income (PCI), Higher health product penetration
+5. **Target Market Segmentation**
+- Tier-1 and Tier-2 cities (Delhi, Mumbai, Bengaluru, Lucknow, Pune, Ahmedabad,Patna) offer strong potential due to: High AQI, Higher per capita income (PCI), Higher health product penetration
 - Tier-3 cities like Raipur, Patna, Jabalpur, Bhagalpur show low AQI awareness.Invest in education campaigns before sales push.
 
 
